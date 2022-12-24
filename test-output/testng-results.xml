@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-24T15:31:09 IST" name="Suite" finished-at="2022-12-24T15:31:30 IST" duration-ms="20439">
+    <groups>
+    </groups>
+    <test started-at="2022-12-24T15:31:09 IST" name="Test" finished-at="2022-12-24T15:31:30 IST" duration-ms="20439">
+      <class name="com.ixigo.testcases.IxigoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ixigo.testcases.IxigoTest@145f66e3]" started-at="2022-12-24T15:31:09 IST" name="setUp" finished-at="2022-12-24T15:31:14 IST" duration-ms="5109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clearData()[pri:1, instance:com.ixigo.testcases.IxigoTest@145f66e3]" started-at="2022-12-24T15:31:14 IST" name="clearData" finished-at="2022-12-24T15:31:14 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearData -->
+        <test-method signature="landingPageData()[pri:2, instance:com.ixigo.testcases.IxigoTest@145f66e3]" started-at="2022-12-24T15:31:14 IST" name="landingPageData" finished-at="2022-12-24T15:31:17 IST" duration-ms="2376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- landingPageData -->
+        <test-method signature="datePickerData()[pri:3, instance:com.ixigo.testcases.IxigoTest@145f66e3]" started-at="2022-12-24T15:31:17 IST" name="datePickerData" finished-at="2022-12-24T15:31:17 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datePickerData -->
+        <test-method signature="clickSearch()[pri:4, instance:com.ixigo.testcases.IxigoTest@145f66e3]" started-at="2022-12-24T15:31:17 IST" name="clickSearch" finished-at="2022-12-24T15:31:17 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSearch -->
+        <test-method signature="selectFlight()[pri:5, instance:com.ixigo.testcases.IxigoTest@145f66e3]" started-at="2022-12-24T15:31:17 IST" name="selectFlight" finished-at="2022-12-24T15:31:29 IST" duration-ms="12047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFlight -->
+        <test-method signature="checkFlightPrices()[pri:6, instance:com.ixigo.testcases.IxigoTest@145f66e3]" started-at="2022-12-24T15:31:29 IST" name="checkFlightPrices" finished-at="2022-12-24T15:31:29 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkFlightPrices -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ixigo.testcases.IxigoTest@145f66e3]" started-at="2022-12-24T15:31:29 IST" name="tearDown" finished-at="2022-12-24T15:31:30 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ixigo.testcases.IxigoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
